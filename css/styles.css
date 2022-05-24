@@ -124,7 +124,7 @@ a {
 }
 
 a:hover {
-  color: #4d5055;
+  color: #b8d08f;
   text-decoration: underline;
 }
 
@@ -429,7 +429,7 @@ input[type="checkbox"] {
 .navbar .nav-item .nav-link {
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
-  color: #ffffff;
+  color: #22552d;
   text-decoration: none;
   transition: all 0.2s ease;
 }
@@ -437,7 +437,7 @@ input[type="checkbox"] {
 .navbar .nav-item.dropdown.show .nav-link,
 .navbar .nav-item .nav-link:hover,
 .navbar .nav-item .nav-link.active {
-  color: #9c9ead;
+  color: #060d44;
 }
 
 /* Dropdown Menu */
@@ -523,7 +523,7 @@ input[type="checkbox"] {
   padding-top: 7rem;
   padding-bottom: 5.5rem;
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url("../images/portrait.jpg") center center no-repeat;
+    url("../images/icon.jpg") center center no-repeat;
   background-size: cover;
   text-align: center;
 }
@@ -541,12 +541,12 @@ input[type="checkbox"] {
 .header .btn-outline-lg {
   padding: 1.625rem 1.625rem 1.625rem 1.625rem;
   border: none;
-  color: #ffffff;
+  color: #f5ebeb;
 }
 
 .header .btn-outline-lg:hover {
   background: transparent;
-  color: #9c9ead;
+  color: #9cfdd9;
   text-decoration: none;
 }
 
@@ -569,7 +569,7 @@ input[type="checkbox"] {
 .basic-1 .time {
   margin-bottom: 0.5rem;
   color: #0b36a8;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 0.875rem;
   line-height: 1.5rem;
   font-family: "Poppins";
@@ -624,7 +624,7 @@ input[type="checkbox"] {
       rgba(25, 26, 29, 0.5),
       rgba(25, 26, 29, 0.5)
     ),
-    url("../images/details-background.jpg") center center no-repeat;
+    url("../images/background\ A.jpg") center center no-repeat;
   background-size: cover;
 }
 
