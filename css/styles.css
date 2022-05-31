@@ -222,6 +222,13 @@ a:hover {
   transition: all 0.2s;
 }
 
+.mail{
+  color: green;
+}
+.mail-span{
+  color: blue;
+}
+
 .btn-outline-lg:hover {
   background-color: #91afec;
   color: #ffffff;
@@ -414,6 +421,8 @@ input[type="checkbox"] {
   transition: transform 0.3s ease-in-out, visibility 0.3s ease-in-out,
     -webkit-transform 0.3s ease-in-out;
 }
+
+
 
 .offcanvas-collapse.open {
   visibility: visible;
