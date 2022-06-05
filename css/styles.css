@@ -1271,3 +1271,22 @@ a:hover.back-to-top {
   /* end of extra pages */
 }
 /* end of min-width 1200px */
+
+.resum{
+  background-color: #95b0e5;
+}
+.foot{
+  background-color: #7785ab;
+}
+.Angy{
+  color: #020f34;
+  font-weight: bolder;
+}
+.fine{
+  height: 4%;
+  width: 6%;
+  border-radius: 3%;
+}
+ul{flex-direction: column;
+
+}

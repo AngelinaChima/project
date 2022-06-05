@@ -1,0 +1,10 @@
+.resum{
+    height: auto;
+    flex-wrap: wrap;
+}
+li{
+flex-direction: column;
+}
+body{
+    background-color: aqua;
+}
