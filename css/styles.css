@@ -1282,11 +1282,14 @@ a:hover.back-to-top {
   color: #020f34;
   font-weight: bolder;
 }
-.fine{
-  height: 4%;
-  width: 6%;
-  border-radius: 3%;
+.fine1{
+  width: 100px;
+  border-radius: 50px;
 }
-ul{flex-direction: column;
-
+.fine{
+  width: 20px;
+  border-radius: 10px;
+}
+.resum{
+  background-color: #75a0f0;
 }
