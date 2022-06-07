@@ -154,7 +154,7 @@ a:hover {
 
 .btn-solid-reg {
   display: inline-block;
-  padding: 1.375rem 2.25rem 1.375rem 2.25rem;
+  padding: 1.0rem 1.1rem 1.0rem 1.1rem;
   border: 1px solid #0b36a8;
   background-color: #0b36a8;
   color: #ffffff;
@@ -173,7 +173,7 @@ a:hover {
 
 .btn-solid-lg {
   display: inline-block;
-  padding: 1.625rem 2.625rem 1.625rem 2.625rem;
+  padding: 1.0rem 1.5rem 1.0rem 1.5rem;
   border: 1px solid #0b36a8;
   background-color: #0b36a8;
   color: #ffffff;
@@ -1289,7 +1289,4 @@ a:hover.back-to-top {
 .fine{
   width: 20px;
   border-radius: 10px;
-}
-.resum{
-  background-color: #75a0f0;
 }
