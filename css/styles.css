@@ -902,17 +902,17 @@ input[type="checkbox"] {
 .copyright {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #a4bef0;
+  background-color: black;
   text-align: center;
 }
 
 .copyright .p-small {
-  color: #9da6ac;
+  color: grey;
   text-align: center;
 }
 
 .copyright a {
-  color: #9da6ac;
+  color: grey;
 }
 
 /******************************/
